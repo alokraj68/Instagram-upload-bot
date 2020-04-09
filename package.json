@@ -1,0 +1,16 @@
+{
+  "name": "upload-to-insta-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "uploadBot.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "instagram-private-api": "^1.39.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alokraj68",
+  "license": "ISC"
+}
